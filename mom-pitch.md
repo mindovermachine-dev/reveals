@@ -6,7 +6,7 @@
 ---
 <!-- .slide: data-background="#f5ebe0" -->
 
-[![reveal markdown](./assets/reveal-black-text.svg)<!-- .element style="height: 120px; margin: 0 auto 4rem auto; background: transparent;" -->](https://reveals.lakruzz.com/markdownloader/?owner=mindovermachine&repo=reveals&file=mom-pitch.md) 
+[![reveal markdown](./assets/reveal-black-text.svg)<!-- .element style="height: 120px; margin: 0 auto 4rem auto; background: transparent;" -->](https://reveals.lakruzz.com/markdownloader/?owner=mindovermachine-dev&repo=reveals&file=mom-pitch.md) 
 
 Compliant with the reveal.js<br/>
 `markdownloader`<br/>
