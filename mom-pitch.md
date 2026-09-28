@@ -3,8 +3,8 @@
   description : "The Regenerative Software Foundation"
   transition : "convex"
   author : "lakruzz"
+  theme : mom
 ---
-<!-- .slide: data-background="#f5ebe0" -->
 
 [![reveal markdown](./assets/reveal-black-text.svg)<!-- .element style="height: 120px; margin: 0 auto 4rem auto; background: transparent;" -->](https://reveals.lakruzz.com/markdownloader/?owner=mindovermachine-dev&repo=reveals&file=mom-pitch.md) 
 
@@ -17,16 +17,10 @@ click the logo to see it live!
 
 # Mind over Machine
 
-
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
-
 We are a non-profit foundation combining a **think tank**, a **laboratory**, and a **community of practice**. Our mission is to explore and share regenerative approaches to software development that create a net positive long-term value for people and humanity.
 
 ---
 ---
-
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
-
 
 ## Public Money — Public Code
 Study Use Modify Share
@@ -45,7 +39,7 @@ MoM FOSS Dev Stack operationaliserer princippet om "Public Money, Public Code". 
 
 ---
 
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" style="font-size: 0.85em;" -->
+<!-- .slide: style="font-size: 0.85em;" -->
 
 ![reusable](./assets/study-use-alter-share.png)<!-- .element style="position: absolute; top: -100px; left: -10px; height: 100px; margin: 0; background: transparent;" -->
 
@@ -67,7 +61,6 @@ MoM FOSS Dev Stack operationaliserer princippet om "Public Money, Public Code". 
 ---
 ---
 
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
 
 # Bryd kæden
 Tag kontrol
@@ -81,7 +74,7 @@ Europa befinder sig  i en fundamental magtforskydning. Digital suverænitet er t
 
 ---
 
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" style="font-size: 0.8em;" -->
+<!-- .slide: style="font-size: 0.8em;" -->
 
 ![reusable](./assets/break-chain.png)<!-- .element style="position: absolute; top: -75px; left: -10px; height: 100px; margin: 0; background: transparent;" -->
 
@@ -100,8 +93,6 @@ Med EU's **Digital Sovereignty Package** og principperne om **"Open Source First
 ---
 ---
 
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
-
 # MoM
 (Moooar!)
 
@@ -117,8 +108,6 @@ MoM har som ambition at levere den fulde FOSS _Supply chain;_ Kvalitet, Sikkerhe
 
 ---
 
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
-
 ![reusable](./assets/supply-chain.png)<!-- .element style="position: absolute; top: -120px; left: -10px; height: 100px; margin: 0; background: transparent;" -->
 
 # Moooar!
@@ -128,8 +117,6 @@ FOSS står ofte stærkt _i princippet!_
 ...men udfordres i praksis af frygt for manglende support/SLA'er, mangel på interne tekniske kompetencer, et svigtende community, samt udefra påførte stærke proprietære bindinger.
 
 ---
-
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
 
 ![reusable](./assets/supply-chain.png)<!-- .element style="position: absolute; top: -10px; left: -10px; height: 100px; margin: 0; background: transparent;" -->
 
@@ -150,8 +137,6 @@ MoM kan levere på den fulde FOSS _Supply chain:_
 ---
 ---
 
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
-
 # Suverænitet
 
 Med Lov Skal Man Land Bygge
@@ -166,8 +151,6 @@ Ved at anvende MoM’s "Rubric of Evilness" kan vi kvantificere risikoen i vores
 
 ---
 
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
-
 # Suverænitet
 
 ![reusable](./assets/national-server.png)<!-- .element style="position: absolute; top: -110px; left: -10px; height: 100px; margin: 0; background: transparent;" -->
@@ -175,8 +158,6 @@ Ved at anvende MoM’s "Rubric of Evilness" kan vi kvantificere risikoen i vores
 Den nuværende kommunale it-arkitektur er i høj grad præget af fragmentering og en dyb afhængighed af proprietære cloud-platforme. Dette skaber en "innovationstørke", hvor data er låst i siloer, og hvor små it-organisationer drænes for ressourcer til vedligeholdelse og compliance.
 
 ---
-
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
 
 # Suverænitet
 
@@ -193,10 +174,7 @@ Ved at anvende MoM’s "Rubric of Evilness" kan vi kvantificere risikoen i vores
 ---
 ---
 
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
-
 # Pan Europæisk Fællesskab
-
 
 ![reusable](./assets/townhalls-connected.png)<!-- .element style="height: 350px; margin: 0 auto 4rem auto; background: transparent; align: left;" -->
 
@@ -211,8 +189,6 @@ Indfører sikkerhedskrav for software. CRA anerkender FOSS, men stiller krav om 
 
 ---
 
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
-
 # Pan Europæisk Fællesskab
 
 
@@ -223,8 +199,6 @@ Indfører sikkerhedskrav for software. CRA anerkender FOSS, men stiller krav om 
 Bindende lovgivning, der pålægger offentlige administrationer i EU at foretage interoperabilitetsvurderinger og fremmer deling samt genbrug af FOSS-løsninger.
 
 ---
-
-<!-- .slide: data-background-color="#f5ebe0" data-background="./assets/mom-brain.png" data-background-size="100px" data-background-position="bottom 20px left 20px" -->
 
 # Pan Europæisk Fællesskab
 
