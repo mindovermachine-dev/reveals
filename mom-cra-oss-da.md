@@ -6,7 +6,7 @@
   theme : "mom"
 ---
 
-[![reveal markdown](./assets/reveal-black-text.svg)<!-- .element style="height: 120px; margin: 0 auto 4rem auto; background: transparent;" -->](https://reveals.lakruzz.com/markdownloader/?owner=mindovermachine-dev&repo=reveals&file=mom-cra-oss-da.md/1)
+[![reveal markdown](./assets/reveal-black-text.svg)<!-- .element style="height: 120px; margin: 0 auto 4rem auto; background: transparent;" -->](https://reveals.lakruzz.com/markdownloader/?owner=mindovermachine-dev&repo=reveals&file=mom-cra-oss-da.md&transition=convex&theme=mom#/1)
 
 Compliant with the reveal.js<br/>
 `markdownloader`<br/>
